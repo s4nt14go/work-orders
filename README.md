@@ -16,8 +16,6 @@
 
 </div>
 
-### ✨ <a href="https://work-orders-aqa7s7uoga-uc.a.run.app" target="_blank">Demo</a>
-
 ## Install
 
 ```sh
@@ -35,7 +33,3 @@ npm start
 ```sh
 npm run test
 ```
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
