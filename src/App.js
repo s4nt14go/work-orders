@@ -82,8 +82,8 @@ export default function App() {
 
         <TextField fullWidth variant="outlined"
                    id="name-input"
-                   label="Worker name"
-                   placeholder="Filter by worker name..."
+                   label="Worker name blah"
+                   placeholder="Filter by worker name... blah"
                    onChange={handleSearchChange}
                    value={search}
         /><br />
